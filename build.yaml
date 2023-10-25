@@ -1,0 +1,3 @@
+artifactVersion: '0.0.21'
+sonarStrategy: RUN # or SKIP or RUN_NOT_FAIL
+blackduckStrategy: TRIGGER_ONLY # or SKIP
