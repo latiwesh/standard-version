@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.2.0](https://github.com/conventional-changelog/standard-version/compare/v9.1.0...v9.2.0) (2023-10-25)
+
+
+### Features
+
+* adding support for bitbucket projects that has hyphen in their names ([d4853d3](https://github.com/conventional-changelog/standard-version/commit/d4853d38f2a44ad1175f4121b2336770c2f482f4))
+
+
+### Bug Fixes
+
+* **deps:** update dependency yargs to v16 ([#660](https://github.com/conventional-changelog/standard-version/issues/660)) ([f6a7430](https://github.com/conventional-changelog/standard-version/commit/f6a7430329919874e1e744ac5dca2f83bba355df))
+* fixing commit and compare url for bitbucket ([703a095](https://github.com/conventional-changelog/standard-version/commit/703a09501c871548843be78353efa5fde680e7cd))
+
 ### [9.1.3](https://github.com/conventional-changelog/standard-version/compare/v9.2.1...v9.1.3) (2021-01-07)
 
 
