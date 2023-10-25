@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [9.2.1](https://github.com/conventional-changelog/standard-version/compare/v9.2.0...v9.2.1) (2023-10-25)
+
+
+### Bug Fixes
+
+* fixing regex for build.yaml ([7ec8620](https://github.com/conventional-changelog/standard-version/commit/7ec8620a7699fea857942523fb582e8e3bd299a5))
+
 ## [9.2.0](https://github.com/conventional-changelog/standard-version/compare/v9.1.0...v9.2.0) (2023-10-25)
 
 
